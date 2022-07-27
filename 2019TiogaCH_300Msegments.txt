@@ -1,4 +1,4 @@
-# Session Individual Occasion TrapID Sex
+#Session Individual Occasion TrapID Sex
 Tioga19_300Msegments 1 1 531 M
 Tioga19_300Msegments 2 1 529 F
 Tioga19_300Msegments 2 1 531 F
