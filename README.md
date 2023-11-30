@@ -14,6 +14,10 @@ This is the messiest code of all the scripts...
 2019: SegmentTransects_2019 and 2019TiogaElkCoordinatesUTMSex.txt  
 *Note: 2019TiogaCaptHistFileCode.R was previously used.*  
 
+## Create mask file with  
+TiogaMaskScript.R  
+I have all the required Rasters and shapefiles if needed.  
+
 ## Files to Run Models  
   Located in Nelson_secrfiles
   * 2018TiogaTrapFile_300Msegments_secr.txt (created with SegmentTransects_2018.R)  
