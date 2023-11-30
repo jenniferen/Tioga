@@ -13,6 +13,7 @@ This is the messiest code of all the scripts...
 2019: SegmentTransects_2019 and 2019TiogaElkCoordinatesUTMSex.txt  
 *Note: 2019TiogaCaptHistFileCode.R was previously used.*  
 
-  2018TiogaCH_300Msegments.txt and 2018TiogaTrapFile_300Msegments.txt were created with SegmentTransects_2018.R  
-  2019TiogaCH_300Msegments.txt and 2019TiogaTrapFile_300Msegments.txt were created with SegmentTransects_2019.R  
+## Files to Run Models
+  2018TiogaCH_300Msegments.txt and 2018TiogaTrapFile_300Msegments.txt (created with SegmentTransects_2018.R)  
+  2019TiogaCH_300Msegments.txt and 2019TiogaTrapFile_300Msegments.txt (created with SegmentTransects_2019.R)  
 
